@@ -1,10 +1,6 @@
 # Jiya1573_IA
----
-title: "Jiya Patel-21BCP374-Docker three-tier application"
-date: 2024-04-24 00:00:00 +0800
-tags: [Docker 3 tier application]
-categories: [Docker 3 tier application]
----
+Jiya Patel-21BCP374-Docker three-tier application
+Docker 3 tier application
 
 # Three-tier application tutorial
 #### This is a tutorial for creating three-tier application using Docker  
